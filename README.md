@@ -12,7 +12,7 @@ Ce jeu est fait à l'aide du moteur de jeu [Unity 3D](https://unity3d.com/fr) en
 
 Ce jeu de course se déroule dans un environnement urbain futuriste inspiré de l'esthétique du film [Tron](https://fr.wikipedia.org/wiki/Tron) cependant sans utiliser les concepts de course du film de 1982. L'objectif est pour le pilote d'un engin de type aéroglisseur de terminer 3 tours de piste en 120 secondes et d'éviter les obstacles sur la piste. Cette idée de jeu est principalement inspirée du jeu [F-Zero](https://en.wikipedia.org/wiki/F-Zero) sur la SNES et du jeu [Wipeout](https://en.wikipedia.org/wiki/Wipeout_(video_game)) sur Playstation, en ce qui concerne le tempo du jeu et son décor cependant sans retenir le concept d'adversaires contrôlés par un I.A.
 
-Il y a des obstacles en forme de X sur la piste qui bougent à des vitesses variables. Si le véhicule de course entre en collision avec un ennemi il y a perte de temps de 5 secondes et d'énergie allant de 10 à 15 points. Il y a aussi des engins se déplaçant sur la piste qui agissent comme borne de recharge. Si le véhicule en touche une, il y a ajout de 10 points d'énergie. 
+Il y a des obstacles en forme de X sur la piste qui bougent à des vitesses variables. Si le véhicule de course entre en collision avec un ennemi il y a perte de temps de 5 secondes et d'énergie allant de 10 à 15 points. Il y a aussi des engins se déplaçant sur la piste qui agissent comme borne de recharge. Si le véhicule en touche une, il y a ajout de 10 points d'énergie. Vous pouvez visionner sur Youtube une [démo du jeux](https://youtu.be/WKlPzU6sMcg). 
 
 ## Contenu du dépôt
 
