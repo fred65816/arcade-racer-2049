@@ -24,19 +24,19 @@ Pour naviguer le menu de départ et le menu de fin de jeux, il faut utiliser les
 
 ## Images
 
-**Le véhicule de course**
+**Le véhicule de course**  
 ![vehicle](images/vehicle.png)
 
-**La piste de course**
+**La piste de course**  
 ![track](images/track-full-texture.png)
 
-**Le modèle de l'obstacle**
+**Le modèle de l'obstacle**  
 ![enemy](images/enemy.png)
 
-**Le modèle de la borne de recharge**
+**Le modèle de la borne de recharge**  
 ![one-leg](images/one-leg.png)
 
-**La ville vue de haut**
+**La ville vue de haut**  
 ![city](images/city.png)
 
 ## Ressources audio
